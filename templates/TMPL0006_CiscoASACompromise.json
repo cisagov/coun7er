@@ -1,0 +1,83 @@
+{
+    "id": "TMPL0006",
+    "name": "Cisco ASA Compromise (ED 25-03)",
+    "featured": true,
+    "iconSrc": null,
+    "link": {
+        "url": "https://www.cisa.gov/news-events/directives/ed-25-03-identify-and-mitigate-potential-compromise-cisco-devices",
+        "text": "CISA Emergency Directive 25-03"
+    },
+    "description": "This template is provided in support of and in addition to CISA's Emergency Directive 25-03, Identify and Mitigate Potential Compromise of Cisco Devices. The guidance here is not mandatory but is intended to give ongoing guidance on containment and eradication measures for this adversary campaign. This template will be updated as new information becomes available and updates will be announced through CISA's website channels.\n\n**9/25/2025**\nThis initial collection of countermeasures is defensive strategy for agencies and organizations that have vulnerable Cisco ASA devices in their networks. Its aim is containment in case of exploitation of those vulnerable devices and lateral movement from adversary actions. These measures should provide a low-risk posture prior to and during further investigation. Agencies and organizations are advised to read through the countermeasures and make their own risk decisions on implementation. If you have findings related to this campaign you will need to initiate your incident response procedures and expand on this template either through using this Eviction Strategies Tool or by reaching out to us at CISA through central@cisa.dhs.gov for help with customizing a containment and eradication strategy.",
+    "tech_to_items": {
+        "unmapped": {
+            "confidence": "suspected",
+            "items": [
+                {
+                    "id": "CM0032",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0128",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0153",
+                    "version": "0.1"
+                },
+                {
+                    "id": "CM0043",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0044",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0125",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0063",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0064",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0088",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0089",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0095",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0096",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0042",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0114",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0067",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0147",
+                    "version": "1.0"
+                }
+            ]
+        }
+    },
+    "ignored_items": []
+}

@@ -35,8 +35,8 @@ applicable to other environments with minor changes.
 
 ### Permissions
 
-Once an adversary has access to an account, the will likely try to
-elevate it's privileges. During an audit, check user SIDs and map to a
+Once an adversary has access to an account, they will likely try to
+elevate their privileges. During an audit, check user SIDs and map to a
 baseline configuration file for users. Users whose SIDS equal System or
 Admin level without being a known Administrator or Service account
 should be flagged for further review. A deeper inspection would be to
