@@ -1,0 +1,56 @@
+{
+    "id": "TMPL0007",
+    "name": "SharePoint  Compromise Eviction",
+    "featured": false,
+    "iconSrc": null,
+    "link": null,
+    "description": "This Eviction Strategy Tool template provides a practical set of preventive security actions for internet-facing Microsoft SharePoint and IIS environments. Its purpose is to reduce opportunities for initial compromise, limit the progression of an undetected threat actor, and strengthen the organization’s overall security posture through regular system hardening, access control, and monitoring. This Template is intended to be used in addition to existing security policies, vendor guidance, vulnerability management, change-management procedures, and incident-response plans.  \n\nThis template may be exported through the Eviction Strategy Tool as-is or expanded to include custom findings and countermeasures. For more information on the use of this tool for customizing eviction playbooks, see the User Guide in the upper right of this page.\n\nSpecifics and Intent of Countermeasures\n=======================================\n\nAction: Update SharePoint\nWhat to Do: Install current SharePoint security updates and expedite critical fixes.\nWhy it Matters: Prevents exploitation of known vulnerabilities.\n\nAction: Keep Windows, IIS, and .NET updated\nWhat to Do: Install current SharePoint security updates and expedite critical fixes.\nWhy it Matters: Prevents exploitation of known vulnerabilities.\n\nAction: Upgrade unsupported SharePoint\nWhat to Do: Migrate unsupported SharePoint versions to current supported versions.\nWhy it Matters: Reduces long-term exposure from software that no longer receives security fixes.\n\nAction: Remove unnecessary open ports\nWhat to Do: Review firewall rules and close ports or services SharePoint does not require.\nWhy it Matters: Reduces the number of ways an attacker can reach or use the server.\n\nAction: Review and limit unnecessary connections \nWhat to Do: Review connections initiated to internet-facing SharePoint servers and compare them with normal, baseline activity\nWhy it Matters: Can help prevent a threat actor from communicating with c2 and exfiltration of data\n\nAction: Disable unnecessary RDP, WinRM, WMI, and SMB access\nWhat to Do: Allow remote-management and file-sharing protocols only where there is a documented need.\nWhy it Matters: Reduces common paths attackers use to move through a network.\n\nAction: Review SharePoint service accounts\nWhat to Do: Remove unnecessary local administrator, domain administrator, or other elevated rights.\nWhy it Matters: Limits what an attacker can do if a service account is compromised.\n\nAction: Disable interactive logon for service accounts\nWhat to Do: Prevent service accounts from being used to sign in like normal users where possible.\nWhy it Matters: Makes stolen service-account credentials less useful.\n\nAction: Disable unused accounts\nWhat to Do: Remove or disable old service, administrator, vendor, and temporary accounts.\nWhy it Matters: Eliminates forgotten access paths.\n\nAction: Review privileged accounts\nWhat to Do: Confirm which users and accounts still require administrative access.\nWhy it Matters: Reduces unnecessary privileged access and credential exposure.\n\nAction: Verify antivirus and EDR are running\nWhat to Do: Confirm endpoint protection on internet facing servers is enabled, healthy, and reporting normally.\nWhy it Matters: Helps prevent security controls from silently failing.\n\nAction: Verify SharePoint AMSI is enabled\nWhat to Do: Confirm SharePoint AMSI protection remains enabled and functioning.\nWhy it Matters: Helps inspect and block malicious SharePoint or .NET activity.\n\nAction: Review firewall rules \nWhat to Do: Remove obsolete, temporary, duplicate, or overly broad firewall rules.\nWhy it Matters: Prevents unnecessary network access from accumulating.\n\nAction: Review installed software and services\nWhat to Do: Remove unused applications, IIS components, utilities, and services.\nWhy it Matters: Reduces the server's overall attack surface.\n\nAction: Restrict internet exposure\nWhat to Do: Expose only the SharePoint or IIS services that truly need to be public.\nWhy it Matters: Reduces externally reachable attack surface.\n\nAction: Back up critical configuration\nWhat to Do: Maintain current, tested backups of important SharePoint configuration and data.\nWhy it Matters: Improves recovery if the system is compromised or damaged.\n\nAction: Document expected SharePoint connections\nWhat to Do: Keep a simple list of the DC, DNS, SQL, file servers, and other systems SharePoint is expected to contact.\nWhy it Matters: Makes unusual or unauthorized connections easier to identify.\n\nAction: Review logs\nWhat to Do: Check for unusual administrator logins, repeated failed logins, unexpected remote access, or abnormal server connections.\nWhy it Matters: Provides basic detection without requiring advanced monitoring.",
+    "tech_to_items": {
+        "unmapped": {
+            "confidence": "suspected",
+            "items": [
+                {
+                    "id": "CM0067",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0157",
+                    "version": "0.1"
+                },
+                {
+                    "id": "CM0017",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0043",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0041",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0112",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0021",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0110",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0034",
+                    "version": "1.0"
+                },
+                {
+                    "id": "CM0140",
+                    "version": "1.0"
+                }
+            ]
+        }
+    },
+    "ignored_items": []
+}
