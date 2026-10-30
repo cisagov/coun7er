@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable
 * **Status:** Active
+* **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Cisco network administration; device hardening and Smart Install
 
 ## Intended Outcome
 

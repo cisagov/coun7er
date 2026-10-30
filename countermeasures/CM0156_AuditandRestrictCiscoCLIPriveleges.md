@@ -6,6 +6,8 @@
 * **Modified:** 18 March 2025
 * **Countermeasure Type:** Examine, Enable
 * **Status:** Active
+* **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Cisco network administration; CLI privilege levels and command authorization
 
 ## Intended Outcome
 

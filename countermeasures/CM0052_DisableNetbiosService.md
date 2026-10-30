@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable 
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows networking; NetBIOS and legacy name services
 
 ## Intended Outcome 
 

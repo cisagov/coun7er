@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows administration; Active Directory, Group Policy, cached domain credentials and credential removal
 
 ## Intended Outcome
 

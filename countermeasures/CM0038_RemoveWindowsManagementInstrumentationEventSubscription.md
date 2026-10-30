@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows administration; WMI event subscriptions and persistence removal
 
 ## Intended Outcome
 

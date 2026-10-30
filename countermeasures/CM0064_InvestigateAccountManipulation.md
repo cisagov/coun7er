@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Incident Response (PD-WRL-003)
+* **Skills & Knowledge:** Incident response; identity logs and account-change analysis
 
 ## Intended Outcome 
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** macOS administration; AppleScript and code signing
 
 ## Intended Outcome 
 

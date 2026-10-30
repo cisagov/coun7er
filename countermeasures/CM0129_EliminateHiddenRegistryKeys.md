@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Incident Response (PD-WRL-003)
+* **Skills & Knowledge:** Windows incident response; hidden registry key analysis and persistence removal
 
 ## Intended Outcome
 

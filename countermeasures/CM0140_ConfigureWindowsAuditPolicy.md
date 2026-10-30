@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Enable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows administration; audit policies and security event logging
 
 ## Intended Outcome
 

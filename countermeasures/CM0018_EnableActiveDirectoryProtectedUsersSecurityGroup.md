@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Active Directory administration; privileged groups and Protected Users
 
 ## Intended Outcome
 

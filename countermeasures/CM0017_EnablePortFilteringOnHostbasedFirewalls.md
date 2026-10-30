@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Host firewall administration; ports and network filtering
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Microsoft Entra ID administration; Azure Portal administration, Graph API administration
 
 ## Intended Outcome
 

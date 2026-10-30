@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable, Refresh
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Identity administration; token revocation and reissuance
 
 ## Intended Outcome 
 

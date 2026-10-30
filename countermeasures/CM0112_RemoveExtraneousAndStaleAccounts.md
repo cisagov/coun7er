@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Identity administration; account lifecycle management and stale account removal
 
 ## Intended Outcome
 

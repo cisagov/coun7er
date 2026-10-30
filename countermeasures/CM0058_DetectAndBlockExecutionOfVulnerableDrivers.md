@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Disable
 * **Status:** Active
+* **Nice Work Role:** Infrastructure Support (PD-WRL-004)
+* **Skills & Knowledge:** Endpoint security; driver management and vulnerable-driver blocking
 
 ## Intended Outcome
 

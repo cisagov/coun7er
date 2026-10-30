@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Microsoft Office administration; VBA macro policies and execution restrictions, Group Policy Objects
 
 ## Intended Outcome
 

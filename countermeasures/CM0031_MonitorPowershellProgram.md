@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** PowerShell administration; logging and script monitoring
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Refresh
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Systems administration; access control lists and permission restoration
 
 ## Intended Outcome
 

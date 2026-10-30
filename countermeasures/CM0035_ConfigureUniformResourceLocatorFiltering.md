@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Infrastructure Support (PD-WRL-004)
+* **Skills & Knowledge:** Web gateway administration; URL filtering and proxy controls
 
 ## Intended Outcome
 

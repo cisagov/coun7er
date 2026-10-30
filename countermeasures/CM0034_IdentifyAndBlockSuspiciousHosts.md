@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable, Examine
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** Network/security monitoring; host identification and blocking
 
 ## Intended Outcome
 

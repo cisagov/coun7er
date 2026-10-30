@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable, Examine
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows administration; process injection controls and application monitoring
 
 ## Intended Outcome
 

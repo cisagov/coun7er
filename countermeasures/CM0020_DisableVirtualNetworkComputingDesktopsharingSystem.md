@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Systems administration; VNC and remote desktop services
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Eliminate 
 * **Status:** Active
+* **Nice Work Role:** Incident Response (PD-WRL-003)
+* **Skills & Knowledge:** Email incident response; mailbox rules and forwarding analysis
 
 ## Intended Outcome  
 

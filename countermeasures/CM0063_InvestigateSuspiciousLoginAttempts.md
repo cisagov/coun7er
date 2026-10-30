@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Incident Response (PD-WRL-003)
+* **Skills & Knowledge:** Incident response; authentication logs and suspicious login analysis
 
 ## Intended Outcome
 

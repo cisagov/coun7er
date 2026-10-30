@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Disable
 * **Status:** Active
+* **Nice Work Role:** Infrastructure Support (PD-WRL-004)
+* **Skills & Knowledge:** Windows administration; PsExec auditing and remote execution restrictions
 
 ## Intended Outcome
 

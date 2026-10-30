@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Disable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Windows administration; application control and network access restrictions
 
 ## Intended Outcome
 

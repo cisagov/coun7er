@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** Windows security monitoring; shadow copies and ransomware behavior
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Eliminate
 * **Status:** Active
+* **Nice Work Role:** Incident Response (PD-WRL-003)
+* **Skills & Knowledge:** Web server incident response; web shell identification and removal, artifact analysis, digital forensics
 
 ## Intended Outcome
 

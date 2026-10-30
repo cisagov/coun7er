@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Systems Security Analysis (IO-WRL-006)
+* **Skills & Knowledge:** Active Directory administration; LDAP signing and channel binding, Log Analysis, Policy audit
 
 ## Intended Outcome
 

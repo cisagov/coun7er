@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Refresh
 * **Status:** Active
+* **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Citrix NetScaler administration; appliance rebuilding and secure baselines
 
 ## Intended Outcome 
 

@@ -6,6 +6,8 @@
 * **Modified:** 18 March 2025
 * **Countermeasure Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Cisco network administration; password complexity and privileged access policies
 
 ## Intended Outcome
 

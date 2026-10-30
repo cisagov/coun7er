@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Vulnerability Analysis (PD-WRL-007)
+* **Skills & Knowledge:** Active Directory administration; Group Policy and configuration auditing
 
 ## Intended Outcome
 

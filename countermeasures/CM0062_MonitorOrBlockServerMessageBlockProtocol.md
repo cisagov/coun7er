@@ -6,7 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Disable
 * **Status:** Active
- 
+ * **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Network monitoring; SMB traffic and protocol filtering
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 04 March 2025
 * **Countermeasure Type:** Disable
 * **Status:** Active
+* **Nice Work Role:** Network Operations (IO-WRL-004)
+* **Skills & Knowledge:** Network administration; open-port auditing and unauthorized service restrictions
 
 ## Intended Outcome
 

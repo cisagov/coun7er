@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Refresh, Examine
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Active Directory administration; adminCount attributes and protected account permissions, Powershell
 
 ## Intended Outcome
 

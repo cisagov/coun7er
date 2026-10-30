@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Enable
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Microsoft Entra ID administration; Conditional Access templates and access controls
 
 ## Intended Outcome
 

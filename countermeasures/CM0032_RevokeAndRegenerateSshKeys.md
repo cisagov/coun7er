@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable, Refresh
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Systems administration; SSH keys and secure remote access
 
 ## Intended Outcome
 

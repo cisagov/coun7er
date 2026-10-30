@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Refresh
 * **Status:** Active
+* **Nice Work Role:** Infrastructure Support (PD-WRL-004)
+* **Skills & Knowledge:** Active Directory administration; SYSVOL restoration and Group Policy recovery
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** Security monitoring; WMI logging and event analysis
 
 ## Intended Outcome
 

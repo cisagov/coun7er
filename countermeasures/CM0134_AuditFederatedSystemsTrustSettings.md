@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Technology Program Auditing (OG-WRL-016)
+* **Skills & Knowledge:** Identity security assessment; federation trust settings and permission auditing
 
 ## Intended Outcome
 

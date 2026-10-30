@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Disable
 * **Status:** Active
+* **Nice Work Role:** Infrastructure Support (PD-WRL-004)
+* **Skills & Knowledge:** Windows endpoint security; Defender ASR rules, Microsoft Intune, Group Policy Management
 
 ## Intended Outcome
 

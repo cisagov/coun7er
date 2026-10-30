@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** Security monitoring; account creation and privilege changes
 
 ## Intended Outcome
 

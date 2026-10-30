@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Refresh
 * **Status:** Active
+* **Nice Work Role:** Systems Administration (IO-WRL-005)
+* **Skills & Knowledge:** Identity administration; privileged account replacement and permission revocation, Microsoft Entra
 
 ## Intended Outcome
 

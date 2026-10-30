@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine
 * **Status:** Active
+* **Nice Work Role:** Systems Security Analysis (IO-WRL-006)
+* **Skills & Knowledge:** Active Directory security assessment; SYSVOL auditing and exposed Group Policy credentials
 
 ## Intended Outcome
 

@@ -6,6 +6,8 @@
 * **Modified:** 14 March 2025
 * **Type:** Examine, Eliminate
 * **Status:** Active
+* **Nice Work Role:** Defensive Cybersecurity (PD-WRL-001)
+* **Skills & Knowledge:** Virtualization security monitoring; hypervisor logs and rogue virtual machine detection
 
 ## Intended Outcome
 
